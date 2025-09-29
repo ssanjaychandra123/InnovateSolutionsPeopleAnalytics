@@ -17,5 +17,5 @@ It covers a **beginner-friendly guided analytics session** (15 key business ques
 ## Getting Started
 1. Clone this repo  
    ```bash
-   git clone https://github.com/<your-username>/workforce-intelligence-engine.git
-   cd workforce-intelligence-engine
+   git clone https://github.com/ssanjaychandra123/InnovateSolutionsPeopleAnalytics.git
+   cd InnovateSolutionsPeopleAnalytics
