@@ -2,7 +2,7 @@
 ### Driving Performance Through Scalable People Analytics  
 
 This repository demonstrates how to build a **Workforce Intelligence Engine** using PySpark.  
-It covers a **beginner-friendly guided analytics session** (15 key business questions) that transforms raw HR and Finance data into actionable insights.  
+It covers a **beginner-friendly guided analytics session** (15 key business questions) that transforms raw HR data into actionable insights (fictitious data)
 
 ---
 
